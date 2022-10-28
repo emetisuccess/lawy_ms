@@ -1,0 +1,16 @@
+<?php include("./includes/menu.php"); ?>
+<div class="ts-main-content">
+    <?php include('./includes/leftbar.php'); ?>
+    <div class="content-wrapper">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 class="page-title">Dashboard</h2>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+</div>
