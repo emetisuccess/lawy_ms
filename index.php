@@ -182,6 +182,7 @@
                                             intellectual pigheadedness injustice is done. And that is
                                             disgraceful.
                                         </p>
+
                                         <footer class="d-block">
                                             <cite>PETER BIRKS</cite>
                                             <span>(Quote)</span>
